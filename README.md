@@ -1,3 +1,7 @@
+# 说明
+
+不再需要下载 asn studio，可在 vs2013 上编译
+
 # kekeo
 
 **`kekeo`** is a little toolbox I have started to manipulate Microsoft Kerberos in C (and for fun)
