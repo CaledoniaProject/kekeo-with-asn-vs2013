@@ -1,0 +1,32 @@
+﻿生成启动时间为 7/5/2016 1:15:18 PM。
+项目“C:\Users\Aaron\Desktop\kekeo-master\kirbikator\kirbikator.vcxproj”在节点 2 上(Build 个目标)。
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX /Ox /Ob2 /Os /Oy /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D OSSPRINT /D OSS_COPY_VALUE /D _UNICODE /D UNICODE /GF /Gm- /MT /Zp8 /GS- /Gy /fp:fast /fp:except- /Zc:wchar_t /Zc:forScope /Fo"Win32\\" /Fd"Win32\vc120.pdb" /Gd /TC /analyze- /errorReport:none ..\modules\kull_m_kerberos_asn1_helper.c ..\modules\kull_m_kerberos_helper.c ..\modules\kull_m_sock.c codecs\ccache.c codecs\krbcred.c codecs\lsa.c codecs\wce.c kirbikator.c
+  kull_m_kerberos_asn1_helper.c
+  kull_m_kerberos_helper.c
+  kull_m_sock.c
+  ccache.c
+  krbcred.c
+  lsa.c
+  wce.c
+  kirbikator.c
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:NONE /OUT:"C:\Users\Aaron\Desktop\kekeo-master\Win32\kirbikator.exe" /INCREMENTAL:NO /NOLOGO /WX advapi32.lib dnsapi.lib user32.lib secur32.lib ws2_32.lib toedcode.lib ossiphlp.lib cryptdll.lib ntdll.min.lib /MANIFEST:NO /PDB:"C:\Users\Aaron\Desktop\kekeo-master\Win32\kirbikator.pdb" /ASSEMBLYDEBUG:DISABLE /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aaron\Desktop\kekeo-master\Win32\kirbikator.lib" /MACHINE:X86 /SAFESEH:NO Win32\kull_m_file.obj
+  Win32\kull_m_kerberos_asn1.obj
+  Win32\kull_m_kerberos_asn1_helper.obj
+  Win32\kull_m_kerberos_helper.obj
+  Win32\kull_m_sock.obj
+  Win32\kull_m_string.obj
+  Win32\ccache.obj
+  Win32\krbcred.obj
+  Win32\lsa.obj
+  Win32\wce.obj
+  Win32\kirbikator.obj
+  正在生成代码
+  已完成代码的生成
+  kirbikator.vcxproj -> C:\Users\Aaron\Desktop\kekeo-master\Win32\kirbikator.exe
+已完成生成项目“C:\Users\Aaron\Desktop\kekeo-master\kirbikator\kirbikator.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:24.76
